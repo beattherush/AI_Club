@@ -27,7 +27,7 @@ Dataset:
    ```
    1. Windows: `.venv\Scripts\activate.bat`
    2. Unix/MacOS: `source .venv/bin/activate`
-5. Install required Python packages
+5. Install required Python packages - pip install -r requirements.txt
 6. Place data file in `./data/external/` directory
 7. Setup DVC
    ```
