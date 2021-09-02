@@ -35,7 +35,7 @@ Dataset:
    dvc init
    dvc add data/external/heart.csv
    ```
-8. View directed acyclic graph of operations with `dvc dag`
+8. View directed acyclic graph of operations with `dvc dag` - #dvc repro [to reproduce]
 9. View generated plots in `plots.html`
 10. View model metrics with `dvc metrics show`
 11. Show metric plots with `dvc plots show cm.csv --template confusion -x output -y Predicted`
