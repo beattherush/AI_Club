@@ -15,8 +15,8 @@ split_data:
   test_size: 0.20
 
 train_and_evaluate:
-  model: logistic_regression
-  # model: random_forest
+  # model: logistic_regression
+  model: random_forest
 
 model_dir: models
 
